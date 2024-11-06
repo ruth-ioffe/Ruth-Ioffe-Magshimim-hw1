@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0a23e3bf-1b77-41e0-9e79-c3a41a8473aa}</ProjectGuid>
-    <RootNamespace>hw1</RootNamespace>
+    <ProjectGuid>{2e938b51-c56f-40b9-bf85-a298bac84ec3}</ProjectGuid>
+    <RootNamespace>HW1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,14 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Downloads\1-20241106T174545Z-001\1\Part1Tester.cpp" />
-    <ClCompile Include="..\..\..\..\..\..\Downloads\2-20241106T174411Z-001\2\Part2Tester.cpp" />
-    <ClCompile Include="hw1.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\..\Downloads\1-20241106T174545Z-001\1\Part1Tester.cpp" />
+    <ClCompile Include="HW1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\Downloads\1-20241106T174545Z-001\1\Queue.h" />
-    <ClInclude Include="..\..\..\..\..\..\Downloads\2-20241106T174411Z-001\2\Stack.h" />
-    <ClInclude Include="..\..\..\..\..\..\Downloads\2-20241106T174411Z-001\2\Utils.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\Downloads\1-20241106T174545Z-001\1\Queue.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
