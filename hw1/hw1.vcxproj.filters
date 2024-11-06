@@ -15,15 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HW1.cpp">
+    <ClCompile Include="..\..\..\..\..\..\..\Downloads\1-20241106T174545Z-001\1\Part1Tester.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\..\Downloads\1-20241106T174545Z-001\1\Part1Tester.cpp">
+    <ClCompile Include="Queue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Downloads\2-20241106T174411Z-001\2\Part2Tester.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\..\Downloads\1-20241106T174545Z-001\1\Queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Downloads\2-20241106T174411Z-001\2\Stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Downloads\2-20241106T174411Z-001\2\Utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
