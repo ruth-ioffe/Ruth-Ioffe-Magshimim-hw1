@@ -25,13 +25,16 @@ output: none
 */
 {
 	delete[] q->elements;
+	q->count = 0;
+	q->maxSize = 0;
+	q->removed = 0;
 }
 
 void enqueue(Queue* q, unsigned int newValue)
 {
 	if (!isFull(q))
 	{
-		q->elements[q->count] = newValue;
+		q->elements[(q->removed + q->count) % q->maxSize] = newValue;
 		q->count++;
 	}
 }
@@ -45,9 +48,10 @@ int dequeue(Queue* q) // return element in top of queue, or -1 if empty
 	}
 	else
 	{
-		firstOut = q->elements[q->removed];
-		q->elements[q->removed] = NULL;
+		firstOut = q->elements[q->removed % q->maxSize];
+		q->elements[q->removed % q->maxSize] = NULL;
 		q->removed++;
+		q->count--;
 		return firstOut;
 	}
 }
