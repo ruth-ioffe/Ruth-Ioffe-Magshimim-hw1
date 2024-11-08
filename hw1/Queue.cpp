@@ -1,6 +1,9 @@
 #include "Queue.h"
 #include <iostream>
 
+
+
+
 void initQueue(Queue* q, unsigned int size)
 /*
 this function intializes the queue
@@ -11,23 +14,43 @@ output: none
 	q->elements = new unsigned int[size];
 	q->maxSize = size;
 	q->count = 0;
+	q->removed = 0;
 }
 
 void cleanQueue(Queue* q)
+/*
+this funciton cleans the queue
+input: Queue* q (the queue)
+output: none
+*/
 {
-
+	delete[] q->elements;
 }
 
 void enqueue(Queue* q, unsigned int newValue)
 {
 	if (!isFull(q))
 	{
-		q->elements.push(newValue);
+		q->elements[q->count] = newValue;
+		q->count++;
 	}
 }
 
-int dequeue(Queue* q); // return element in top of queue, or -1 if empty
-
+int dequeue(Queue* q) // return element in top of queue, or -1 if empty
+{
+	unsigned int firstOut = 0;
+	if (isEmpty(q))
+	{
+		return -1;
+	}
+	else
+	{
+		firstOut = q->elements[q->removed];
+		q->elements[q->removed] = NULL;
+		q->removed++;
+		return firstOut;
+	}
+}
 
 bool isEmpty(Queue* s)
 /*
@@ -61,4 +84,6 @@ output: true or false (if the queue is full or not)
 	{
 		return false;
 	}
+	
 }
+
