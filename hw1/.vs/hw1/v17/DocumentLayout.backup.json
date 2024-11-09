@@ -3,23 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F3769F7-C26A-4510-B919-71C930C7D3FC}|..\\HW1task 2\\HW1task 2.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedListCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F3769F7-C26A-4510-B919-71C930C7D3FC}|..\\HW1task 2\\HW1task 2.vcxproj|solutionrelative:LinkedListCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F3769F7-C26A-4510-B919-71C930C7D3FC}|..\\HW1task 2\\HW1task 2.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\2\\Part2Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F3769F7-C26A-4510-B919-71C930C7D3FC}|..\\HW1task 2\\HW1task 2.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F3769F7-C26A-4510-B919-71C930C7D3FC}|..\\HW1task 2\\HW1task 2.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|solutionrelative:Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\1\\Part1Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\HW1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F3769F7-C26A-4510-B919-71C930C7D3FC}|..\\HW1task 2\\HW1task 2.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1task 2\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,71 +16,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinkedList.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.cpp",
-              "RelativeDocumentMoniker": "LinkedList.cpp",
-              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.cpp",
-              "RelativeToolTip": "LinkedList.cpp",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T12:04:15.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinkedListCheck.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedListCheck.cpp",
-              "RelativeDocumentMoniker": "LinkedListCheck.cpp",
-              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedListCheck.cpp*",
-              "RelativeToolTip": "LinkedListCheck.cpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Title": "Part2Tester.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\2\\Part2Tester.cpp",
+              "RelativeDocumentMoniker": "..\\..\\2\\Part2Tester.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\2\\Part2Tester.cpp",
+              "RelativeToolTip": "..\\..\\2\\Part2Tester.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T12:04:12.005Z",
+              "WhenOpened": "2024-11-09T20:47:15.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Queue.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.h",
-              "RelativeDocumentMoniker": "Queue.h",
-              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.h",
-              "RelativeToolTip": "Queue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T11:52:39.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Part1Tester.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\1\\Part1Tester.cpp",
-              "RelativeDocumentMoniker": "..\\..\\1\\Part1Tester.cpp",
-              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\1\\Part1Tester.cpp",
-              "RelativeToolTip": "..\\..\\1\\Part1Tester.cpp",
+              "DocumentIndex": 1,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1task 2\\Stack.cpp",
+              "RelativeDocumentMoniker": "..\\HW1task 2\\Stack.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1task 2\\Stack.cpp",
+              "RelativeToolTip": "..\\HW1task 2\\Stack.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T11:37:58.803Z",
+              "WhenOpened": "2024-11-09T20:47:11.702Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HW1.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\HW1.cpp",
-              "RelativeDocumentMoniker": "HW1.cpp",
-              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\HW1.cpp",
-              "RelativeToolTip": "HW1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-06T21:36:51.812Z"
             }
           ]
         }

@@ -1,2 +1,4 @@
-﻿  LinkedListCheck.cpp
-  HW1task 2.vcxproj -> C:\Users\Cyber_User\Desktop\magshimim\C1 year 2\Ekronot\week1hw1\Ruth-Ioffe-Magshimim-hw1\HW1\x64\Debug\HW1task 2.exe
+﻿  Part2Tester.cpp
+C:\Users\Cyber_User\Desktop\magshimim\C1 year 2\Ekronot\week1hw1\2\Stack.h(4,10): error C1083: Cannot open include file: 'LinkedList.h': No such file or directory
+  (compiling source file '../../2/Part2Tester.cpp')
+  
