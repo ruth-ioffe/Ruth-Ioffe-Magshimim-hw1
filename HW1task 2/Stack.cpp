@@ -37,10 +37,7 @@ bool isEmpty(Stack* s)
 	{
 		return true;
 	}
-	else
-	{
-		return false;
-	}
+	return false;
 }
 
 /*
