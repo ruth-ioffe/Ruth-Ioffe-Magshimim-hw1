@@ -11,6 +11,7 @@ typedef struct stackNode
 stackNode* createNode(unsigned int value);
 void addNode(stackNode** sHead, unsigned int newValue);
 void removeNode(stackNode** sHead);
+void freeList(stackNode* head);
 
 
 

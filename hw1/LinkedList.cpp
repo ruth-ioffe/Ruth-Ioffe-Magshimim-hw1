@@ -13,37 +13,27 @@ stackNode* createNode(unsigned int value)
 void addNode(stackNode** sHead, unsigned int newValue)
 {
     stackNode* newNode = createNode(newValue);
-    stackNode* current = *sHead;
-    if (!*sHead)
-    {
-        *sHead = newNode;
-    }
-    else
-    {
-        while (current->next)
-        {
-            current = current->next;
-        }
-        current->next = newNode;
-    }
+    newNode->next = *sHead;
+    *sHead = newNode;
 }
 
 void removeNode(stackNode** sHead)
 {
     stackNode* temp = *sHead;
-    if ((*sHead)->next == NULL)
-    {
-        delete(*sHead);
-    }
-    else
-    {
-        while (temp->next)
-        {
-            temp = temp->next;
-        }
-        delete(temp->next);
-        temp->next = NULL;
-    }
+    *sHead = (*sHead)->next;
+    delete temp;
+    temp = NULL;
 
+}
+
+void freeList(stackNode* head)
+{
+    stackNode* temp = NULL;
+    while (head != NULL)
+    {
+        temp = head;
+        head = head->next;
+        delete(temp);
+    }
 }
 
