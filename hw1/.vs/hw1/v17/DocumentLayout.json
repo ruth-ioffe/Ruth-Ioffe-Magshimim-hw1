@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|solutionrelative:LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|solutionrelative:Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|solutionrelative:Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\1\\Part1Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\1\\Part1Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E938B51-C56F-40B9-BF85-A298BAC84EC3}|HW1.vcxproj|solutionrelative:Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\HW1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,19 +38,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.cpp",
+              "RelativeDocumentMoniker": "LinkedList.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.cpp",
+              "RelativeToolTip": "LinkedList.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T23:26:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.h",
+              "RelativeDocumentMoniker": "LinkedList.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\LinkedList.h",
+              "RelativeToolTip": "LinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T23:16:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Queue.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.h",
               "RelativeDocumentMoniker": "Queue.h",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.h",
               "RelativeToolTip": "Queue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-06T22:53:00.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Part1Tester.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\1\\Part1Tester.cpp",
               "RelativeDocumentMoniker": "..\\..\\1\\Part1Tester.cpp",
@@ -55,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Queue.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.cpp",
               "RelativeDocumentMoniker": "Queue.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\Queue.cpp",
               "RelativeToolTip": "Queue.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-06T22:28:17.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HW1.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\C1 year 2\\Ekronot\\week1hw1\\Ruth-Ioffe-Magshimim-hw1\\HW1\\HW1.cpp",
               "RelativeDocumentMoniker": "HW1.cpp",
