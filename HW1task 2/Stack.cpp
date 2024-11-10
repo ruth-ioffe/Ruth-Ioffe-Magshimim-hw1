@@ -40,9 +40,8 @@ bool isEmpty(Stack* s)
 	return false;
 }
 
-/*
+
 bool isFull(Stack* s)
 {
 	return false; //there is no max size, so always false.
 }
-*/
