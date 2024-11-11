@@ -31,6 +31,11 @@ output: none
 }
 
 void enqueue(Queue* q, unsigned int newValue)
+/*
+this function inserts a number into the array
+input: Queue* q, unsigned int newValue
+output: none
+*/
 {
 	if (!isFull(q))
 	{
