@@ -4,6 +4,7 @@
 void printQueue(Queue* q);
 void checkQueue();
 
+//stopped the main from working so the Part1Tester will work.
 /*
 int main()
 {

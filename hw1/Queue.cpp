@@ -68,14 +68,7 @@ input: Queue* s
 output: true or false (if the queue is empty or not)
 */
 {
-	if (s->count == 0)
-	{
-		return true;
-	}
-	else
-	{
-		return false;
-	}
+	return(s->count == 0);
 }
 
 bool isFull(Queue* s)
@@ -85,14 +78,6 @@ input: Queue* s
 output: true or false (if the queue is full or not)
 */
 {
-	if (s->count == s->maxSize)
-	{
-		return true;
-	}
-	else
-	{
-		return false;
-	}
-	
+	return(s->count == s->maxSize);
 }
 

@@ -57,13 +57,8 @@ input: Stack* s
 output: true or false
 */
 {
-	if (!s->head)
-	{
-		return true;
-	}
-	return false;
+	return(!s->head);
 }
-
 
 bool isFull(Stack* s)
 /*

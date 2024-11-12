@@ -7,6 +7,8 @@ void checkUtils();
 
 void printStack(Stack* s);
 void printArr(int* nums, unsigned int size);
+
+//stopped the main from working so the Part2Tester will work.
 /*
 int main()
 {
@@ -65,6 +67,7 @@ input: none
 	cleanStack(s);
 	delete s;
 }
+
 void checkUtils()
 /*
 this funciton checks the utils functions
@@ -114,6 +117,7 @@ output: none
 	}
 	std::cout << std::endl;
 }
+
 void printArr(int* nums, unsigned int size)
 /*
 this funciton prints the array
