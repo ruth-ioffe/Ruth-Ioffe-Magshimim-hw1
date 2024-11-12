@@ -4,10 +4,12 @@
 void printQueue(Queue* q);
 void checkQueue();
 
+/*
 int main()
 {
 	checkQueue();
 }
+*/
 
 void checkQueue()
 /*

@@ -7,12 +7,13 @@ void checkUtils();
 
 void printStack(Stack* s);
 void printArr(int* nums, unsigned int size);
-
+/*
 int main()
 {
 	checkStack();
 	checkUtils();
 }
+*/
 
 void checkStack()
 /*

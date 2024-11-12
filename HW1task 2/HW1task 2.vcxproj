@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="..\HW1\LinkedList.cpp" />
     <ClCompile Include="main2.cpp" />
+    <ClCompile Include="Part2Tester.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Utils.cpp" />
   </ItemGroup>
